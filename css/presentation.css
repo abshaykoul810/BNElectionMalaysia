@@ -52,7 +52,7 @@
     color: #fff;
     text-align: center;
     background: #132237;
-    width: 100%;
+    width: auto;
 }
 
 .fullscreen .header {
@@ -1193,7 +1193,7 @@
 /** Mobile devices in portrait **/
 @media screen and (max-width: 700px) and (orientation: portrait) {
     .header__logo {
-        width: 300px;
+       /** width: 300px; **/
     }
 
     .player__splash-image {
