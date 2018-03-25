@@ -40,7 +40,7 @@ sub {
 }
 
 .header__logo {
-    padding: 60px 10px 20px 10px;
+   /** padding: 60px 10px 20px 10px; **/
     max-width: 100%;
 }
 
@@ -761,7 +761,7 @@ sub {
     }
 
     .header__logo {
-        padding: 40px 10px 10px 10px;
+      /**  padding: 40px 10px 10px 10px;  **/
     }
 
     .cta--side,
@@ -877,7 +877,7 @@ sub {
     }
 
     .header__logo {
-        padding: 20px 10px 0 10px;
+       /** padding: 20px 10px 0 10px; **/
     }
 
     .social--top-left {
