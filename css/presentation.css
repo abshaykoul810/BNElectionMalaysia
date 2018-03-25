@@ -51,6 +51,8 @@
 .header {
     color: #fff;
     text-align: center;
+    background: #132237;
+    width: 100%;
 }
 
 .fullscreen .header {
