@@ -685,7 +685,7 @@ sub {
     }
 
     .promo--side .promo__item--top {
-        margin-bottom: 4px;
+        margin-bottom: 50px;
     }
 
     .player__wrapper {
