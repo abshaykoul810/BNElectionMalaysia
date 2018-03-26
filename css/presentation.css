@@ -307,7 +307,8 @@ display: none;
 }
 
 .promo__item {
-    background-color: #fff;
+    background-color: #27181845;
+    border-radius: 3px 3px 3px 3px;
 }
 
 .promo--side .promo__image {
