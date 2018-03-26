@@ -83,7 +83,7 @@ var Translations = {
     "PromoSettings": {
         "promo1": {
             "trackingName": "promo1",
-            "url": "http://example.com/",
+            "url": "https://therakyat.com/",
             "label": "Promo (Top)",
             "desktopImage": "./images/promo_portrait.png",
             "mobileImage": "./images/promo_landscape.png"
