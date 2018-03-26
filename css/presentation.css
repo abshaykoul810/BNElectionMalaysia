@@ -312,7 +312,7 @@ display: none;
 }
 
 .promo--side .promo__image {
-    background-size: 100% 100%;
+    background-size: cover;
 }
 
 /* .promo--side .promo__link:hover .promo__image, */
