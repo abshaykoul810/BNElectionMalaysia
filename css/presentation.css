@@ -180,6 +180,7 @@
 .cta__button--button-5 {
     border-bottom-left-radius: 6%;
     border-bottom-right-radius: 6%;
+    border-bottom: none;
 }
 
 button.cta__button.cta__button--button-3.jsCtaButton {
