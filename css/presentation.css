@@ -182,6 +182,10 @@
     border-bottom-right-radius: 6%;
 }
 
+.cta__button--button-3 {
+display: none;
+}
+
 .cta__button:hover,
 .cta__button:active,
 .focusable.cta__button:focus {
