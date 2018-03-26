@@ -90,10 +90,10 @@ var Translations = {
         },
         "promo2": {
             "trackingName": "promo2",
-            "url": "http://example.com/",
+            "url": "http://www.barisannasional.org.my/node/57",
             "label": "Promo (Bottom)",
-            "desktopImage": "./images/promo_portrait.png",
-            "mobileImage": "./images/promo_landscape.png"
+            "desktopImage": "./images/promo_portrait2.png",
+            "mobileImage": "./images/promo_landscape2.png"
         }
     },    
     
