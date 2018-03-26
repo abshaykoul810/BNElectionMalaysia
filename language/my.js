@@ -83,17 +83,17 @@ var Translations = {
     "PromoSettings": {
         "promo1": {
             "trackingName": "promo1",
-            "url": "http://example.com/",
+            "url": "https://therakyat.com/",
             "label": "Promo (Atas)",
             "desktopImage": "./images/promo_portrait.png",
             "mobileImage": "./images/promo_landscape.png"
         },
         "promo2": {
             "trackingName": "promo2",
-            "url": "http://example.com/",
+            "url": "http://www.barisannasional.org.my/node/57",
             "label": "Promosi (Bawah)",
-            "desktopImage": "./images/promo_portrait.png",
-            "mobileImage": "./images/promo_landscape.png"
+            "desktopImage": "./images/promo_portrait2.png",
+            "mobileImage": "./images/promo_landscape2.png"
         }
     },
 
