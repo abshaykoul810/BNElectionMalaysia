@@ -1265,6 +1265,7 @@ sub {
 
     .cta--bottom {
         display: block;
+        width: 125%;
     }
 
     .cta--bottom .cta__button {
@@ -1289,6 +1290,10 @@ sub {
 
     .cta--bottom.cta--5 .cta__button {
         width: 20%;
+        border-top-left-radius: 0%;
+        border-top-right-radius: 0%;
+        border-bottom-left-radius: 0%;
+        border-bottom-right-radius: 0%;
     }
 
     .player {
