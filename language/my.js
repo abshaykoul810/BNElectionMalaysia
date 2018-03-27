@@ -24,7 +24,7 @@ var Translations = {
 
     "PreparedForText": "Bersedia untuk",
 
-    "CopyrightText": "Hakcipta Terpelihara 2017 Pitney Bowes",
+    "CopyrightText": "Hakcipta Terpelihara 2017 Barison Nasional",
     "PoweredByFooterText": "Dikuasai oleh",
     "HelpFooterText": "Bantuan",
     "PrivacyPolicyFooterText": "Dasar Privasi",
