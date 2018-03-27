@@ -49,7 +49,7 @@ var Translations = {
             "label": "Share",
             "icon": "email"
         },
-        "button2": {
+        "button4": {
             "url": "http://www.barisannasional.org.my/",
             "label": "Website",
             "icon": "website"
@@ -59,12 +59,12 @@ var Translations = {
             "label": "Email",
             "icon": "email"
         },
-        "button4": {
+        "button5": {
             "card": "15d41653",
             "label": "Save",
             "icon": "save"
         },
-        "button5": {
+        "button2": {
             "card": "0556805b",
             "label": "FB Share",
             "icon": "share"
