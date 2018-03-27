@@ -327,7 +327,7 @@ display: none;
 }
 
 .promo--bottom .promo__image {
-    background-size: 100% 200%;
+    background-size: contain;
 }
 
 .promo__link {
