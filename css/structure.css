@@ -1186,7 +1186,7 @@ sub {
     .cta--side {
         position: absolute;
         top: 0;
-        left: 0;
+        left: 55px;
         height: 100%;
     }
 
@@ -1235,7 +1235,7 @@ sub {
 
     .cta--side.cta--5 .cta__button {
         margin-bottom: 0;
-        height: 20%;
+       /** height: 20%; **/
     }
 
     .player {
@@ -1244,7 +1244,7 @@ sub {
     }
 
     .timeline {
-        width: calc(100% - 90px);
+        width: calc(100% - 0px);
     }
 }
 
