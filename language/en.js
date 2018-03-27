@@ -49,25 +49,25 @@ var Translations = {
             "label": "Share",
             "icon": "email"
         },
-        "button4": {
-            "url": "http://www.barisannasional.org.my/",
-            "label": "Website",
-            "icon": "website"
+        "button2": {
+            "card": "0556805b",
+            "label": "FB Share",
+            "icon": "share"
         },
         "button3": {
             "card": "15d41653",
             "label": "Email",
             "icon": "email"
         },
+        "button4": {
+            "url": "http://www.barisannasional.org.my/",
+            "label": "Website",
+            "icon": "website"
+        },
         "button5": {
             "card": "15d41653",
             "label": "Save",
             "icon": "save"
-        },
-        "button2": {
-            "card": "0556805b",
-            "label": "FB Share",
-            "icon": "share"
         }
     },
 
