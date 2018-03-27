@@ -312,6 +312,10 @@ display: none;
     background-color: #13223796;
 }
 
+.promo__item:hover {
+    background-color: #132237cf;
+}
+
 .promo--side .promo__image {
     background-size: contain;
 }
