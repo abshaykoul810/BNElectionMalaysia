@@ -46,7 +46,7 @@ var Translations = {
     "CtaButtonSettings": {
         "button1": {
             "card": "3f4bf3da",
-            "label": "Contact",
+            "label": "Share",
             "icon": "contact"
         },
         "button2": {
@@ -66,7 +66,7 @@ var Translations = {
         },
         "button5": {
             "card": "0556805b",
-            "label": "Share",
+            "label": "FB Share",
             "icon": "share"
         }
     },
