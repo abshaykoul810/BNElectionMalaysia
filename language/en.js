@@ -65,7 +65,7 @@ var Translations = {
             "icon": "save"
         },
         "button5": {
-            "url": "http://example.com/",
+            "card": "0556805b",
             "label": "Share",
             "icon": "share"
         }
