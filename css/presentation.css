@@ -1274,7 +1274,7 @@ display: none;
 @media (any-hover: none) {
     .cta__button:hover,
     .cta__button:active {
-        background-color: #0072b8;
+        background-color: #132237cf;
     }
 
     .social--top .social__icon:hover,
