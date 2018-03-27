@@ -47,7 +47,7 @@ var Translations = {
         "button1": {
             "card": "3f4bf3da",
             "label": "Share",
-            "icon": "contact"
+            "icon": "email"
         },
         "button2": {
             "url": "http://www.barisannasional.org.my/",
