@@ -163,7 +163,7 @@
 
 .cta__button {
     color: #fff;
-    background-color: #13223796;  
+    background-color: rgba(19, 34, 55, 0.59);  
     border: 0;
     font-family: Arial;
     font-size: 28px;
@@ -190,7 +190,7 @@ display: none;
 .cta__button:hover,
 .cta__button:active,
 .focusable.cta__button:focus {
-    background-color: #132237cf;
+    background-color: rgba(19, 34, 55, 0.81);
 }
 
 .fullscreen .cta--side .cta__button {
@@ -309,11 +309,11 @@ display: none;
 
 .promo__item {
     border-radius: 3px 3px 3px 3px;
-    background-color: #13223796;
+    background-color: rgba(19, 34, 55, 0.59);
 }
 
 .promo__item:hover {
-    background-color: #132237cf;
+    background-color: rgba(19, 34, 55, 0.81);
 }
 
 .promo--side .promo__image {
